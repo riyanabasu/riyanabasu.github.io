@@ -26,9 +26,19 @@
 #categories {
 	position: relative;
 	top: 100px;
-	left: 25%;
-	display: inline-block;
-	margin: auto;
+	text-align: center;
+}
+
+a:link {
+    color: white;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: underline;
+    font-size: 20px;
 }
 
 #more-info {
